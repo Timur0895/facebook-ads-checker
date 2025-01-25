@@ -2,7 +2,7 @@ name: Facebook Ads Checker
 
 on:
   schedule:
-    - cron: '0 3-17 * * *'  # Запуск каждый день в 09:00 утра UTC
+    - cron: '0 4-18 * * *'  # Запуск каждый день в 09:00 утра UTC
   workflow_dispatch:    # Возможность ручного запуска вручную
 
 
