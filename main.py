@@ -3,10 +3,12 @@ from dotenv import load_dotenv
 import os
 from datetime import datetime
 from ad_accounts import AD_ACCOUNTS
+import pytz
 
 def send_telegram_notification(messages):
     if messages:
-        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        tz = pytz.timezone('Asia/Almaty')
+        current_time = datetime.now(tz).strftime("%Y-%m-%d %H:%M:%S")
         header = f"🚨 На текущий момент - {current_time}, израсходован бюджет:\n\n"
         message = header + "\n".join(messages)
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
