@@ -1,6 +1,0 @@
-developer_token: "ВАШ_DEVELOPER_TOKEN"
-client_id: "ВАШ_CLIENT_ID"
-client_secret: "ВАШ_CLIENT_SECRET"
-refresh_token: "ВАШ_REFRESH_TOKEN"
-login_customer_id: "1234567890"  # Замени на свой ID
-use_proto_plus: False
