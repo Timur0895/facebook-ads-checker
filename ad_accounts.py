@@ -1,7 +1,6 @@
 AD_ACCOUNTS = {
     "act_1082906269729980": {"ad_name": "Cinnamon pastry", "name": "Акмарал"},
     "act_507749842302659": {"ad_name": "Qeepe Agency", "name": "Тимур"},
-    "act_1217259476047680": {"ad_name": "Ayala", "name": "Камила"},
     "act_496935289543113": {"ad_name": "Eurasian Brands", "name": "Алуа"},
     "act_496865140441823224": {"ad_name": "Heorshe", "name": "Тимур"},
     "act_148151068017317": {"ad_name": "Kaizencenter", "name": "Тимур"},
@@ -10,7 +9,7 @@ AD_ACCOUNTS = {
     "act_8770229869663011": {"ad_name": "Ollypub", "name": "Умиджон"},
     "act_320024450415339": {"ad_name": "Manica", "name": "Умиджон"},
     "act_968545621696759": {"ad_name": "Pyramid", "name": "Умиджон"},
-    "act_1154401746274307": {"ad_name": "Sportpit", "name": "Умиджон"},
+    "act_1856962031053029": {"ad_name": "Музыкалка", "name": "Римад"},
     "act_546596267772746": {"ad_name": "Pyramid 2", "name": "Умиджон"},
     "act_3590321671266840": {"ad_name": "Pyramid 3", "name": "Умиджон"},
     "act_112259769168935": {"ad_name": "Кабинет Фарида", "name": "Умиджон"},
@@ -27,5 +26,8 @@ AD_ACCOUNTS = {
     "act_659361803005221": {"ad_name": "Zipfit", "name": "Акмарал"},
     "act_611949594687062": {"ad_name": "Ремонт квартир", "name": "Алуа"},
     "act_610098878636714": {"ad_name": "Tabys Market", "name": "Жасмин"},
-    "act_3767454590153808": {"ad_name": "Audene", "name": "Зарина"}
+    "act_3767454590153808": {"ad_name": "Audene", "name": "Зарина"},
+    "act_1113637160540968": {"ad_name": "Armkaz group", "name": "Жасмин"},
+    "act_592229876922148": {"ad_name": "Bakery Aigul", "name": "Алуа"},
+    "act_1669208927348650": {"ad_name": "UGS", "name": "Акмарал"}
 }
